@@ -21,11 +21,11 @@ This project is an API for a social network web application where users can shar
 - **THEN** I am able to successfully create and delete reactions to thoughts and add and remove friends from a user’s friend list.
 
 ## Installation
-1. Clone repo
-2.Go to vs code
-3.Connect Mongo database 
-4.Set up .env with Mongo db string
-5. npm start
+- 1. Clone repo
+- 2.Go to vs code
+- 3.Connect Mongo database 
+- 4.Set up .env with Mongo db string
+- 5. npm start
 
 ## Usage
 Testing the API
