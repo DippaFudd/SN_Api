@@ -26,7 +26,7 @@ This project is an API for a social network web application where users can shar
 - 3.npm i
 - 4.Connect Mongo database 
 - 5.Set up .env with Mongo db string
-- 6. npm start
+- 6.npm start
 
 ## Usage
 Testing the API
